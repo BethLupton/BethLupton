@@ -1,6 +1,8 @@
 <h1 align="center">Hello there, I'm Beth 😃</h1>
 <h3 align="center">I have just completed a 16 week Professional Software Development Course at CodeClan and currently looking for my first role.</h3>
 
+- 💻 Currently learning **TypeScript.**
+- 
 - 💬 Ask me about **My projects and time at CodeClan.**
 
 - 📫 How to reach me **luptonbeth21@gmail.com**
